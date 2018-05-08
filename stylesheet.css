@@ -182,58 +182,74 @@ h3{
 	grid-column-end: span 2;
 	grid-row-start: 1;
 	grid-row-end:span 2;
+	font-size: 30px
 }
 .two{
 	grid-column-start: 3;
 	grid-column-end: span 2;
 	grid-row-start: 1;
 	grid-row-end:span 2;
+	font-size: 30px
 }
 .three{
 	grid-column-start: 1;
 	grid-column-end: span 2;
 	grid-row-start: 3;
 	grid-row-end:span 2;
+	font-size: 30px
 }
 .four{
 	grid-column-start: 3;
 	grid-column-end: span 2;
 	grid-row-start: 3;
 	grid-row-end:span 2;
+	font-size: 30px
 }
 .five{
 	grid-column-start: 1;
 	grid-column-end: span 2;
 	grid-row-start: 5;
 	grid-row-end:span 2;
+	font-size: 30px
 }
 .six{
 	grid-column-start: 3;
 	grid-column-end: span 2;
 	grid-row-start: 5;
 	grid-row-end:span 2;
+	font-size: 30px
 }
 .seven{
 	grid-column-start: 1;
 	grid-column-end: span 2;
 	grid-row-start: 7;
 	grid-row-end:span 2;
+	font-size: 30px
 }
 .eight{
 	grid-column-start: 3;
 	grid-column-end: span 2;
 	grid-row-start: 7;
 	grid-row-end:span 2;
+	font-size: 30px
 }
 .nine{
 	grid-column-start: 1;
 	grid-column-end: span 2;
 	grid-row-start: 9;
 	grid-row-end:span 2;
+	font-size: 30px
 }
 .ten{
 	grid-column-start: 3;
 	grid-column-end: span 2;
 	grid-row-start: 9;
 	grid-row-end:span 2;
+	font-size: 30px
 }
+
+.columonespan {
+	grid-column-start: 1;
+	grid-column-end: span 1;
+}
+
