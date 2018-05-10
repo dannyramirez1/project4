@@ -62,7 +62,12 @@ h3{
 	font-size: 30px
 }
 .colsix-span2{
-	grid-column-start: 3
+	grid-column-start: 3;
+	grid-column-end: span 2;
+}
+.a{
+	grid-column-start:2 
+	grid-column-end: span 1;
 }
 
 ul {
